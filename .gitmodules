@@ -1,0 +1,7 @@
+
+[submodule "lib/libft"]
+	path = lib/libft
+	url = https://github.com/Hoommus/libft.git
+[submodule "lib/libprintf"]
+	path = lib/libprintf
+	url = https://github.com/Hoommus/ft_printf.git
